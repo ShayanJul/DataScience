@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ShayanJul
-- 👀 I’m interested in any data related fields
-- 🌱 I’m currently learning python to develop my data analysis skills
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me
+- 👋 Hi, I’m Shayan
+- 👀 I’m interested in the filed of data science and management reporting
+- 🌱 I’m currently data science to help with business problems
+- 💞️ I’m looking to collaborate on data science projects.
+- 📫 How to reach me: s.julaei94@gmail.com
 
 <!---
 ShayanJul/ShayanJul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
